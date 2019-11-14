@@ -14,7 +14,5 @@ What you'll need
 Run
 
     mvn spring-boot:run
-    
-[![Build Status](https://travis-ci.com/FanJups/cicd-applied-to-spring-boot-java-app.svg)](https://travis-ci.com/FanJups/cicd-applied-to-spring-boot-java-app)
 
 [![Build Status](https://travis-ci.com/rameshb469/spring-boot-restful-web-services-example.svg)](https://travis-ci.com/rameshb469/spring-boot-restful-web-services-example.svg)
